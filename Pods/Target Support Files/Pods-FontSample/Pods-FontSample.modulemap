@@ -1,0 +1,6 @@
+module Pods_FontSample {
+  umbrella header "Pods-FontSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
